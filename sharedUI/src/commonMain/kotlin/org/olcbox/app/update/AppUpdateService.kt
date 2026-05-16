@@ -30,7 +30,7 @@ data class ReleaseMirror(
     companion object {
         val GitHub = ReleaseMirror(
             name = "GitHub",
-            repositoryUrl = "https://github.com/alananisimov/olcbox"
+            repositoryUrl = "https://github.com/icxcmchnk/olcbox"
         )
     }
 }
